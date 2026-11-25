@@ -1,0 +1,8 @@
+{
+  "key.szybki.gui": "Otwórz menu SZYBKI CLIENT",
+  "key.szybki.radar": "Otwórz Radar",
+  "key.szybki.tpa": "Włącz/wyłącz powtarzanie TPA",
+  "key.szybki.save": "AntyKostka: zapisz ekwipunek",
+  "key.szybki.restore": "AntyKostka: przywróć ekwipunek",
+  "category.szybki": "SZYBKI CLIENT"
+}

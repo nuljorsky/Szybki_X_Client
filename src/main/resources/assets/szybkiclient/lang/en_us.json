@@ -1,0 +1,8 @@
+{
+  "key.szybki.gui": "Open SZYBKI CLIENT menu",
+  "key.szybki.radar": "Open Radar",
+  "key.szybki.tpa": "Toggle TPA repeat",
+  "key.szybki.save": "AntyKostka: save inventory",
+  "key.szybki.restore": "AntyKostka: restore inventory",
+  "category.szybki": "SZYBKI CLIENT"
+}
